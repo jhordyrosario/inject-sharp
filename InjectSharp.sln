@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectSharp", "InjectSharp\InjectSharp.csproj", "{AF86BBCD-60E2-4462-83DD-F2C9D3D89376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectSharp.UnitTests", "InjectSharp.UnitTests\InjectSharp.UnitTests.csproj", "{58AC96BA-C08A-46F3-A74A-8C3E55091AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF86BBCD-60E2-4462-83DD-F2C9D3D89376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF86BBCD-60E2-4462-83DD-F2C9D3D89376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF86BBCD-60E2-4462-83DD-F2C9D3D89376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF86BBCD-60E2-4462-83DD-F2C9D3D89376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AC96BA-C08A-46F3-A74A-8C3E55091AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AC96BA-C08A-46F3-A74A-8C3E55091AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AC96BA-C08A-46F3-A74A-8C3E55091AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AC96BA-C08A-46F3-A74A-8C3E55091AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
