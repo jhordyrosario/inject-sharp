@@ -20,20 +20,12 @@ Dependency Injection (DI) is a design pattern used to implement IoC (Inversion o
 - .NET Core 3.1 or later / .NET 5 or later
 - Visual Studio 2019 or later (recommended for development)
 
-### Installation
-
-Currently, to use InjectSharp, clone this repository locally and build the project using Visual Studio or the .NET CLI.
-
-```bash
-git clone https://github.com/yourusername/InjectSharp.git
-cd InjectSharp
-dotnet build
-
 ## Features
-Simple DI Container: Easy to use and lightweight, with basic DI capabilities.
-Service Registration: Support for registering services and their implementations.
-Instance Creation: Automatic creation of service instances when required.
-Contributing
+**Simple DI Container:** Easy to use and lightweight, with basic DI capabilities.
+**Service Registration:** Support for registering services and their implementations.
+**Instance Creation:** Automatic creation of service instances when required.
+
+## Contributing
 Contributors are welcome! Feel free to open pull requests or submit issues if you have suggestions or encounter bugs.
 
 ## License
@@ -43,3 +35,12 @@ InjectSharp is released under the MIT License. See the LICENSE file for more det
 This library is created strictly for educational purposes to show how dependency injection frameworks are typically implemented in a simplified form. It is ideal for those new to software design patterns or those interested in learning the internal workings of a DI framework.
 
 This README outlines the project, provides basic usage examples, and explains the educational purpose behind InjectSharp. Adjust as needed to match the actual structure and URLs of your project repository.
+
+### Installation
+
+Currently, to use InjectSharp, clone this repository locally and build the project using Visual Studio or the .NET CLI.
+
+```bash
+git clone https://github.com/yourusername/InjectSharp.git
+cd InjectSharp
+dotnet build
