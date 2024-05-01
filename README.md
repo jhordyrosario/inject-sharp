@@ -29,17 +29,17 @@ git clone https://github.com/yourusername/InjectSharp.git
 cd InjectSharp
 dotnet build
 
-Features
+## Features
 Simple DI Container: Easy to use and lightweight, with basic DI capabilities.
 Service Registration: Support for registering services and their implementations.
 Instance Creation: Automatic creation of service instances when required.
 Contributing
 Contributors are welcome! Feel free to open pull requests or submit issues if you have suggestions or encounter bugs.
 
-License
+## License
 InjectSharp is released under the MIT License. See the LICENSE file for more details.
 
-Educational Purpose
+## Educational Purpose
 This library is created strictly for educational purposes to show how dependency injection frameworks are typically implemented in a simplified form. It is ideal for those new to software design patterns or those interested in learning the internal workings of a DI framework.
 
 This README outlines the project, provides basic usage examples, and explains the educational purpose behind InjectSharp. Adjust as needed to match the actual structure and URLs of your project repository.
