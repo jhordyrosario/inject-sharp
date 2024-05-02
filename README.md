@@ -44,3 +44,35 @@ Currently, to use InjectSharp, clone this repository locally and build the proje
 git clone https://github.com/yourusername/InjectSharp.git
 cd InjectSharp
 dotnet build
+```
+
+## TODO List
+
+This list outlines current tasks and future enhancements planned for the InjectSharp project. Contributors are welcome to tackle these issues or suggest new features.
+
+### Core Development
+- [ ] **Implement Lifecycle Management**: Support for different lifecycles like singleton, transient, and scoped.
+- [ ] **Error Handling**: Improve error handling for unregistered types and circular dependencies.
+- [ ] **Support for Constructor Injection**: Enable the container to resolve dependencies through constructors.
+
+### Testing
+- [ ] **Complete Unit Tests**: Add comprehensive tests for new features as they are developed.
+- [ ] **Integration Tests**: Set up tests that integrate InjectSharp with a sample .NET application.
+- [ ] **Performance Benchmarking**: Establish benchmarks and optimize performance where necessary.
+
+### Documentation
+- [ ] **Expand API Documentation**: Provide detailed comments and documentation for all public interfaces and classes.
+- [ ] **User Guide**: Create a detailed user guide covering all features and use cases of InjectSharp.
+- [ ] **Examples**: Add more complex examples demonstrating advanced usage of the DI framework.
+
+### Tooling and Infrastructure
+- [ ] **CI/CD Pipeline**: Setup a CI/CD pipeline using GitHub Actions for automated testing and deployment.
+- [ ] **Code Quality**: Integrate static analysis tools to ensure code quality.
+
+### Community and Contribution
+- [ ] **Contributing Guidelines**: Draft clear contributing guidelines to help new contributors get started.
+- [ ] **Issue Templates**: Create GitHub issue templates for bug reports and feature requests.
+
+### Release Management
+- [ ] **Versioning**: Define a clear versioning strategy.
+- [ ] **NuGet Packaging**: Prepare the project for distribution via NuGet.
