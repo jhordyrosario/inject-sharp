@@ -41,7 +41,7 @@ This README outlines the project, provides basic usage examples, and explains th
 Currently, to use InjectSharp, clone this repository locally and build the project using Visual Studio or the .NET CLI.
 
 ```bash
-git clone https://github.com/yourusername/InjectSharp.git
+git clone https://github.com/jhordyrosario/InjectSharp.git
 cd InjectSharp
 dotnet build
 ```
